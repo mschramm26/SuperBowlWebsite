@@ -1,0 +1,56 @@
+body {
+	background-color: Gainsboro;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: Georgia, serif;
+}
+
+.sans-serif {
+	font-family: sans-serif;
+}
+
+.ClassA {
+	background-color: #3CB371;
+	padding: 24px;
+	font-size: 10pt;
+	border-radius: 30px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+table.score-table {
+	border-collapse: collapse;
+}
+
+tr {
+	background-color: gray;
+}
+
+tr.score-table-head {
+	background-color: #000000;
+	border-color: #000000;
+}
+
+td {
+	font-family: sans-serif;
+}
+
+td.score-table-head {
+	background-color: #000000;
+	border-color: #000000;
+}
+
+p.score-table-head {
+	font-family: Georgia, serif;
+	color: #ffffff;
+	font-family: sans-serif;
+}
